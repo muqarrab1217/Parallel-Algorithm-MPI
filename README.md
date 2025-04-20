@@ -55,7 +55,7 @@ We propose a hybrid parallelization of the graph coloring algorithm using:
 
 **Sample Code:**
 
-*(to be inserted)*
+![image](https://github.com/user-attachments/assets/792007e9-f1b4-4eda-a494-33afdb74edfc)
 
 **Option B: OpenCL**  
 - Port the algorithm to run on GPUs using OpenCL kernels.  
