@@ -1,4 +1,4 @@
-### 📘 Technical Report: Parallelization Strategy for High Performance Graph Coloring
+## 📘 Technical Report: Parallelization Strategy for High Performance Graph Coloring
 
 ## 1. Introduction  
 Graph coloring is a fundamental problem in computer science and applied mathematics. It is critical for applications such as register allocation, scheduling, frequency assignment, and scientific computing. The selected paper presents a high-performance parallel graph coloring algorithm optimized for shared-memory architectures. This report provides an in-depth study of the paper, summarizes its key contributions, and proposes a parallelization strategy using MPI, OpenMP/OpenCL, and METIS.
